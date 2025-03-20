@@ -27,16 +27,14 @@
   + Tạo database mới, mô tả các tham số(nếu có) trong quá trình.
   + Tạo các bảng dữ liệu với các trường như mô tả, chọn kiểu dữ liệu phù hợp với thực tế (tự tìm hiểu)
   + Mỗi bảng cần thiết lập PK, FK(s) và CK(s) nếu cần thiết. (chú ý dấu # và @: # là chỉ PK, @ chỉ FK)
-2. Chuyển các thao tác đồ hoạ trên thành lệnh SQL tương đương.
+2. Chuyển các thao tác đồ hoạ trên thành lệnh SQL tương đương. lưu tất cả các lệnh SQL trong file: Script_DML.sql
 
 ## HÌNH THỨC LÀM BÀI:
-1. Tạo repository mới, tạo file readme.md
-Sinh viên thao tác trên máy tính cá nhân, chụp màn hình quá trình làm, chỉ cần chụp active window, thi thoảng chụp full màn hình để thấy sự cá nhân hoá.
-2. Hình sau khi chụp paste trực 
-3. Cần mô tả các phần trên ảnh để tỏ ra là hiểu hết!
-4. Xuất PDF: sau khi save pptx thì save as sang pdf để tiện việc đọc online.
-5. Github: tạo repository mới, để quyền try cập public, upload file pdf lên đó.
-6. Update link của repository vào cột bài tập 2 trên file excel online của thầy (đã ghim link trên zalo group)
+1. Tạo repository mới, tạo file readme.md (có hướng dẫn trên zalo group)
+2. Sinh viên thao tác trên máy tính cá nhân, chụp màn hình quá trình làm, chỉ cần chụp active window, thi thoảng chụp full màn hình để thấy sự cá nhân hoá.
+3. Hình sau khi chụp paste trực tiếp vào file readme trên github, cần mô tả các phần trên ảnh để tỏ ra là hiểu hết!
+4. upload các file liên quan: Script_DML.sql
+5. Update link của repository vào cột bài tập 2 trên file excel online của thầy (đã ghim link trên zalo group)
 
 ## Chú ý:
 1. Được phép dùng AI và tham khảo bài của bạn, nhưng phải có sự khác biệt đáng kể.
