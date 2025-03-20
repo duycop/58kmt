@@ -44,3 +44,12 @@ Sinh viên thao tác trên máy tính cá nhân, chụp màn hình quá trình l
 3. Bài làm phải có dấu ấn cá nhân (hãy sáng tạo và biết cách bảo vệ mình nếu bạn là bản chính)
 4. Kết quả AI phải phù hợp với yêu cầu, nếu quá sai lệch <=> sv ko đọc => Cấm thi
 5. Nên nhớ: cấm thi là ko có vùng cấm và thầy chưa bao giờ nói đùa về việc cấm thi.
+
+---
+
+# DEMO VIỆC PASTE ẢNH CHỤP MÀN HÌNH
+
+Đây là ảnh ví dụ mô tả việc tạo database:
+![image](https://github.com/user-attachments/assets/6e4a6e06-5a95-4f48-978f-799444fc883e)
+
+
