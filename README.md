@@ -52,4 +52,17 @@ Sinh viên thao tác trên máy tính cá nhân, chụp màn hình quá trình l
 Đây là ảnh ví dụ mô tả việc tạo database:
 ![image](https://github.com/user-attachments/assets/6e4a6e06-5a95-4f48-978f-799444fc883e)
 
+lặp lại cho các ảnh khác
+thêm mô tả ngay trong ảnh: thì dùng mspaint có sẵn của windows
+![image](https://github.com/user-attachments/assets/7b89d39b-a8b1-4450-8d4d-df3c030f00f1)
+
+ảnh trên chụp cách chạy paint ở cửa sổ run: win+R: nhập mspaint => Enter
+
+chú ý cú pháp markdown kẻo chữ dính nhau giữa các dòng
+
+nên xem Preview => OK thì mới Commit
+![image](https://github.com/user-attachments/assets/efac72f2-06c0-4624-907e-efefff9935f0)
+
+
+
 
